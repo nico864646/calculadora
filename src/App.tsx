@@ -40,7 +40,6 @@ function App() {
 
   function handleReset(e: any) {
     const array = calc
-    if(array)
     array[0] = '' 
     array[1] = ''
     array[2] = ''
